@@ -9,3 +9,6 @@ fiqih-tahawulat.service
 .DS_Store
 *.env
 coverage.out
+
+# exclude raw dump, include compressed
+fiqih_tahawulat.sql
