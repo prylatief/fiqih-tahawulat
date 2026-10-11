@@ -1,0 +1,11 @@
+bin/
+*.pdf
+*.csv
+*.jsonl
+extract.py
+import_db*.py
+ocr_one.py
+fiqih-tahawulat.service
+.DS_Store
+*.env
+coverage.out
