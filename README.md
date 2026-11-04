@@ -1,6 +1,6 @@
 # Fiqih Tahawulat API — Habib Abu Bakar
 
-REST API + MCP server untuk koleksi digital **38 kitab Habib Abu Bakar bin Ali Al-Aththas al-Husayni** (5.963 halaman), dengan full-text search Bahasa Arab.
+REST API + MCP server untuk koleksi digital **38 kitab Habib Abu Bakar bin Ali  al-masyhur** (5.963 halaman), dengan full-text search Bahasa Arab.
 
 ## Stack
 
